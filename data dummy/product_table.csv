@@ -1,0 +1,38 @@
+product_id,user_id,brand,model,body_type,year,price,transmission,colour,mileage,bid_allowed,location_id
+1,71,Toyota,Toyota Yaris,Hatchback,2016,175000000,Automatic,Jingga,45276,True,5171
+2,2,Toyota,Toyota Yaris,Hatchback,2018,215000000,Automatic,Biru muda,84201,False,3273
+3,5,Toyota,Toyota Yaris,Hatchback,2014,162000000,Manual,Perak,81001,False,5171
+4,5,Toyota,Toyota Yaris,Hatchback,2020,220000000,Automatic,Biru muda,44604,True,7371
+5,32,Toyota,Toyota Yaris,Hatchback,2012,124000000,Manual,Jingga,37368,False,3171
+6,69,Toyota,Toyota Yaris,Hatchback,2019,114000000,Automatic,Perak,73229,True,3173
+7,22,Toyota,Toyota Agya,Hatchback,2014,97000000,Automatic,Biru dongker,101660,True,6471
+8,55,Toyota,Toyota Agya,Hatchback,2016,110000000,Manual,Hijau,146504,False,5171
+9,27,Toyota,Toyota Agya,Hatchback,2022,155500000,Automatic,Biru muda,112421,False,1375
+10,73,Toyota,Toyota Agya,Hatchback,2017,115500000,Automatic,Merah jambu,183056,False,1371
+11,31,Toyota,Toyota Calya,Wagon,2019,130000000,Automatic,Ungu tua,90630,False,5171
+12,93,Toyota,Toyota Calya,Wagon,2020,135000000,Automatic,Biru muda,47517,False,3173
+13,79,Toyota,Toyota Calya,Wagon,2015,115500000,Manual,Kuning,84737,False,5171
+14,21,Toyota,Toyota Calya,Wagon,2016,104000000,Manual,Koral,117228,False,3578
+15,98,Daihatsu,Daihatsu Ayla,Hatchback,2013,83000000,Automatic,Putih,54832,True,3175
+16,38,Daihatsu,Daihatsu Ayla,Hatchback,2017,88000000,Manual,Merah jambu,172442,True,3175
+17,95,Daihatsu,Daihatsu Ayla,Hatchback,2015,96000000,Automatic,Zaitun,86107,False,3471
+18,28,Daihatsu,Daihatsu Ayla,Hatchback,2019,115000000,Automatic,Merah jambu,103930,False,6472
+19,96,Daihatsu,Daihatsu Ayla,Hatchback,2014,90000000,Manual,Biru laut,194731,True,3175
+20,32,Daihatsu,Daihatsu Terios,SUV,2018,201000000,Manual,Perak,80524,True,3175
+21,20,Daihatsu,Daihatsu Xenia,MPV,2019,170000000,Manual,Coklat,177324,False,6472
+22,52,Daihatsu,Daihatsu Xenia,MPV,2022,220500000,Manual,Kuning,89645,True,6471
+23,77,Daihatsu,Daihatsu Xenia,MPV,2018,159000000,Automatic,Merah,63365,False,3578
+24,49,Honda,Honda Jazz,Hatchback,2018,236000000,Automatic,Ungu tua,22369,True,3273
+25,18,Honda,Honda Jazz,Hatchback,2019,250000000,Manual,Biru muda,190431,False,1371
+26,84,Honda,Honda Jazz,Hatchback,2015,192000000,Automatic,Putih,199617,False,5171
+27,6,Honda,Honda Jazz,Hatchback,2013,178000000,Manual,Ungu,17659,False,3578
+28,59,Honda,Honda CR-V,SUV,2017,345000000,Automatic,Merah marun,185330,False,3573
+29,33,Honda,Honda CR-V,SUV,2009,116000000,Manual,Coklat,96819,True,3174
+30,95,Honda,Honda CR-V,SUV,2012,398500000,Manual,Merah marun,62494,True,3273
+31,98,Honda,Honda Civic,Hatchback,2018,350000000,Manual,Hijau,94098,True,3573
+32,93,Honda,Honda Civic,Sedan,2013,186000000,Manual,Merah,149236,True,3578
+33,64,Honda,Honda Civic,Sedan,2015,235000000,Manual,Zaitun,77476,False,3273
+34,83,Honda,Honda Civic,Hatchback,2019,397500000,Manual,Kuning,76448,True,1375
+35,41,Suzuki,Suzuki Ertiga,MPV,2015,125000000,Manual,Abu-abu,134726,True,3171
+36,95,Suzuki,Suzuki Ertiga,MPV,2016,168000000,Automatic,Merah bata,195267,True,1371
+37,87,Suzuki,Suzuki Ertiga,MPV,2018,167000000,Manual,Merah marun,72442,True,5171
