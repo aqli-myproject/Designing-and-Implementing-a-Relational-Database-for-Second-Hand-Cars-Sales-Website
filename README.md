@@ -60,6 +60,17 @@ After creation, you can verify the relationships by:
 
 For more details, please check the attached file = Script-5 Create Table Query.sql
 
+## explanation of relationships between tables
+1.	User and Location : One-to-Many (1:N), One location can have many users and Each user can only have one location
+2.	User and Car_product: One-to-Many (1:N), one user (seller) can have many cars, and each car only refers to one owner user(seller).
+3.	Location and Car_product: One-to-Many (1:N), One location can consist of many cars for sale, and each car only refers to one specific location.
+4.	Car_product and Advertisement: One-to-One (1:1), One car can have only one advertisement and Each advertisement is for one specific car. This is enforced by the unique constraint on product_id in the advertisement table
+5.	Car_product and Bid: One-to-Many (1:N), One car can receive many bids and Each bid is for one specific car. This only applies when bid_allowed is true
+6.	User and Bid: One-to-Many (1:N), One user can make many bids and Each bid is made by one user
+
+![ERD Diagram](https://github.com/aqli-myproject/Designing-and-Implementing-a-Relational-Database-for-Second-Hand-Cars-Sales-Website/blob/main/erd%20website%20jual%20beli%20mobil%20dbeaver.png)
+
+
 ## Create Dummy Dataset With Faker
   Data to Generate: I focus on creating 4 tables, while 1 table location is ready and table car_product is modified:
 - Car_product: Contains detailed car product information and ownership of each seller user, Includes car attributes such as brand, model, year, and price.
@@ -86,5 +97,6 @@ For more details, please check the attached file = Script-7 Import Data Query.sq
 ## Query Retrieval Data
 I created 2 categories of data retrieval, the first is transactional and the second is analytical, all case queries can be done from the database that has been created,
 such as finding the highest popularity of car brands and models, finding user patterns in car purchases, finding the right car pricing strategy. for more information, you can visit my medium blog too.
+
 For more details, please check the attached file = Script-8 Analytical Query.sql and Script-6 Transactional Query.sql
 
